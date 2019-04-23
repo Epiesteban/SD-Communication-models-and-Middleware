@@ -1,0 +1,11 @@
+ibm_cf:
+    endpoint    : <YOUR ENDPOINT>
+    namespace   : <YOUR NAMESPACE>
+    api_key     : <YOUR API_KEY>
+
+ibm_cos:
+    endpoint   : <YOUR ENDPOINT>
+    access_key : <YOUR ACCESS_KEY>
+    secret_key : <YOUR SECRET_KEY>
+amqp:
+    url : <YOUR RABBITMQURL>
